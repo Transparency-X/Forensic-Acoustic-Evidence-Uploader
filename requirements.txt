@@ -1,0 +1,7 @@
+boto3==1.35.81
+botocore==1.35.81
+python-dotenv==1.0.1
+jmespath==1.0.1
+s3transfer==0.10.4
+urllib3==2.2.3
+six==1.16.0
